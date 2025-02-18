@@ -20,7 +20,7 @@ This project provides a detailed analysis of Uber ride data to uncover trends an
     ├── 📂 Datasets/                # Raw ride data files (Excel)
     │    ├── uber-raw-data-apr14.xlsx
     │    └── uber-raw-data-sep14.xlsx
-    └── 📄 uber_analysis_shan_singh.ipynb  # Jupyter Notebook for analysis
+    └── 📄 uber_analysis.ipynb  # Jupyter Notebook for analysis
 ```
 
 ## 📈 Insights and Findings
